@@ -1,6 +1,7 @@
 # Sales Dashboard Project (Excel)
 
 This project is a fully interactive and dynamic **Sales Dashboard** built in Microsoft Excel. It offers a clear, insightful view into sales performance across various dimensions like region, customer type, product category, and time.
+![dashboard](https://github.com/user-attachments/assets/640e3df8-87cc-4729-ba43-8a67579ffc55)
 
 ---
 
